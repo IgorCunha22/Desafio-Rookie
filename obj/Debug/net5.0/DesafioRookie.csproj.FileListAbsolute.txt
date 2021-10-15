@@ -1,0 +1,16 @@
+C:\Users\igor-\source\repos\DesafioRookie\obj\Debug\net5.0\DesafioRookie.csproj.AssemblyReference.cache
+C:\Users\igor-\source\repos\DesafioRookie\obj\Debug\net5.0\DesafioRookie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor-\source\repos\DesafioRookie\obj\Debug\net5.0\DesafioRookie.AssemblyInfoInputs.cache
+C:\Users\igor-\source\repos\DesafioRookie\obj\Debug\net5.0\DesafioRookie.AssemblyInfo.cs
+C:\Users\igor-\source\repos\DesafioRookie\obj\Debug\net5.0\DesafioRookie.csproj.CoreCompileInputs.cache
+C:\Users\igor-\source\repos\DesafioRookie\bin\Debug\net5.0\DesafioRookie.exe
+C:\Users\igor-\source\repos\DesafioRookie\bin\Debug\net5.0\DesafioRookie.deps.json
+C:\Users\igor-\source\repos\DesafioRookie\bin\Debug\net5.0\DesafioRookie.runtimeconfig.json
+C:\Users\igor-\source\repos\DesafioRookie\bin\Debug\net5.0\DesafioRookie.runtimeconfig.dev.json
+C:\Users\igor-\source\repos\DesafioRookie\bin\Debug\net5.0\DesafioRookie.dll
+C:\Users\igor-\source\repos\DesafioRookie\bin\Debug\net5.0\ref\DesafioRookie.dll
+C:\Users\igor-\source\repos\DesafioRookie\bin\Debug\net5.0\DesafioRookie.pdb
+C:\Users\igor-\source\repos\DesafioRookie\obj\Debug\net5.0\DesafioRookie.dll
+C:\Users\igor-\source\repos\DesafioRookie\obj\Debug\net5.0\ref\DesafioRookie.dll
+C:\Users\igor-\source\repos\DesafioRookie\obj\Debug\net5.0\DesafioRookie.pdb
+C:\Users\igor-\source\repos\DesafioRookie\obj\Debug\net5.0\DesafioRookie.genruntimeconfig.cache
